@@ -1,6 +1,5 @@
 import datetime
 from datetime import date
-from smtplib import SMTPException
 
 from kivy.core.window import Window
 from kivy.lang import Builder
