@@ -12,9 +12,6 @@ from kivymd.uix.floatlayout import MDFloatLayout
 from kivymd.uix.picker import MDDatePicker
 from kivymd.uix.snackbar import Snackbar
 
-from kivymd_extensions.akivymd.uix.charts import AKBarChart
-from kivymd_extensions.akivymd.uix.charts import AKPieChart
-
 Window.size = (310, 580)
 
 
